@@ -1,0 +1,11 @@
+{
+  "name": "buffer-managed-proxy",
+  "version": "1.0.0",
+  "description": "Sineware TCP Buffer Managed Proxy",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Seshan Ravikumar",
+  "license": "AGPL-3.0"
+}
